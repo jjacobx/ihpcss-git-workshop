@@ -1,9 +1,13 @@
 * Nina
   - Padova
+  - Crochet
 * Greg
   - Warsaw
   - Not GregTech
+  - Pizza
 * Grzegorz
   - Chrząszczyżewoszyce
+  - GregTech
 * Quokka
   - The University of Western Australia
+  - Debugging
